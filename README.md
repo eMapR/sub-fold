@@ -1,4 +1,4 @@
-# Disturbance Validation Meta-Repo
+# SERVIR Uncertainty-Based Forest Loss and Disturbance Alert system
 
 This repository serves as a hub for related components of the disturbance validation workflow.
 
