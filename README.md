@@ -1,14 +1,42 @@
-# SERVIR Uncertainty-Based Forest Loss and Disturbance Alert system
+# SUB-FOLD
+**SERVIR Uncertainty-Based Forest Loss and Disturbance Alert System**
 
-This repository serves as a hub for related components of the disturbance validation workflow.
+This repository serves as a central hub for documentation, setup instructions, and links to related components of the SUB-FOLD system. It does not contain active code, but instead provides guidance for setting up and coordinating the system.
 
-## Linked Repositories
+---
 
-1. **GEE Disturbance Algorithms** – [McKenzie's repo](https://github.com/username/forestChangeEnsemble)
-2. **TSPO Interface & Database** – [Peter's repo](https://github.com/username/TSPO)
-3. **Post-Processing & Upload Scripts** – [Processing repo](https://github.com/username/processing-scripts)
-4. **Integration & Modeling** – [Integration repo](https://github.com/username/integration-gee)
+## 🔗 Linked Repositories
 
-## Setup Instructions
+| Component | Description | Link |
+|----------|-------------|------|
+| **GEE Disturbance Algorithms** | Code for change detection and sample generation | [McKenzie's GEE repo](https://github.com/eMapR/forestChangeEnsemble) |
+| **TSPO Interface & Database** | Web interface and database for interpreter input | [Peter's TSPO repo](https://github.com/eMapR/TSPO) |
+| **Post-Processing & Upload Scripts** | Scripts to process interpreter responses and upload to GEE | [Processing repo](https://github.com/eMapR/post-processing) |
+| **Integration & Modeling** | Combines interpreter data with maps, including RF modeling | [Integration repo](https://github.com/eMapR/integration) |
 
-See the `setup/` folder for local and GEE configuration steps.
+---
+
+## 📂 Setup Instructions
+
+To get started, see the `setup/` folder:
+
+- [`local_setup.md`](setup/local_setup.md): for installing the TSPO interface and setting up the local database.
+- [`gee_setup.md`](setup/gee_setup.md): for running analysis in Google Earth Engine.
+
+---
+
+## 🧭 Project Overview
+
+The SUB-FOLD system enables uncertainty-based interpretation and integration of forest disturbance data from various sources. It combines:
+
+- Probabilistic forest change detection
+- Manual interpreter input using high-resolution imagery
+- Post-processing for aggregation and validation
+- Integration with machine learning models
+
+---
+
+## 📌 Notes
+
+- This repo is documentation-only. Clone the linked repos to work on specific components.
+- Feel free to submit issues or pull requests for improvements to documentation.
