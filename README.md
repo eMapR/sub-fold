@@ -9,10 +9,9 @@ This repository serves as a central hub for documentation, setup instructions, a
 
 | Component | Description | Link |
 |----------|-------------|------|
-| **GEE Disturbance Algorithms** | Code for change detection and sample generation | [McKenzie's GEE repo](https://github.com/eMapR/forestChangeEnsemble) |
-| **TSPO Interface & Database** | Web interface and database for interpreter input | [Peter's TSPO repo](https://github.com/eMapR/TSPO) |
-| **Post-Processing & Upload Scripts** | Scripts to process interpreter responses and upload to GEE | [Processing repo](https://github.com/eMapR/post-processing) |
-| **Integration & Modeling** | Combines interpreter data with maps, including RF modeling | [Integration repo](https://github.com/eMapR/integration) |
+| **GEE Disturbance Algorithms** | Code for change detection and sample generation | [repo link](https://github.com/mckenziesime/SUB-FOLD-GEEScripts) |
+| **TSPO Interface & Database** | Web interface and database for interpreter input | [repo link](https://github.com/eMapR/TSPO) |
+| **Processing Validated TSPO Database** | Scripts to process interpreter responses | [repo link](https://github.com/mckenziesime/SUB-FOLD-DB-Processing) |
 
 ---
 
