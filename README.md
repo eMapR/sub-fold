@@ -36,9 +36,9 @@ The ensemble model produces forest loss probability maps for the last 3, 6, and 
 
 | Component                         | Description                                              | Link        |
 |----------------------------------|----------------------------------------------------------|-------------|
-| **GEE Disturbance Algorithms**   | Code for forest change detection and sample generation   | [repo link] |
-| **TSPO Interface & Database**    | Web interface and database for interpreter input         | [repo link] |
-| **TSPO Processing Scripts**      | Tools to process interpreter-labeled validation data     | [repo link] |
+| **GEE Disturbance Algorithms** | Code for change detection and sample generation | [repo link](https://github.com/mckenziesime/SUB-FOLD-GEEScripts) |
+| **TSPO Interface & Database** | Web interface and database for interpreter input | [repo link](https://github.com/eMapR/TSPO) |
+| **Processing Validated TSPO Database** | Scripts to process interpreter responses | [repo link](https://github.com/mckenziesime/SUB-FOLD-DB-Processing) |
 
 ---
 
