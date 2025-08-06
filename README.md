@@ -15,14 +15,14 @@ This repository serves as a central hub for documentation, setup instructions, a
 
 ---
 
-## 📂 Setup Instructions
+<!--## 📂 Setup Instructions
 
 To get started, see the `setup/` folder:
 
 - [`local_setup.md`](https://github.com/eMapR/TSPO): for installing the TSPO interface and setting up the local database.
 - [`gee_setup.md`](setup/gee_setup.md): for running analysis in Google Earth Engine.
 
----
+--- -->
 
 ## 🧭 Project Overview
 
