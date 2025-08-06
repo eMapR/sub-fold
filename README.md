@@ -5,7 +5,7 @@ This repository serves as the central hub for documentation, system setup guidan
 
 ---
 
-## 🧭 Project Overview
+##Project Overview
 
 SUB-FOLD is a modular system designed to monitor and validate forest loss using an ensemble of forest disturbance alerts from both optical and SAR-based sensors. It integrates:
 
@@ -18,7 +18,7 @@ The system supports scalable application in regions like Southeast Asia and can 
 
 ---
 
-## 🌍 Application Context
+##Application Context
 
 In Southeast Asia (Cambodia, Laos PDR, Vietnam), SUB-FOLD has been applied to:
 
@@ -28,11 +28,11 @@ In Southeast Asia (Cambodia, Laos PDR, Vietnam), SUB-FOLD has been applied to:
 - Define strata ranging from **no alerts** to **cross-sensor agreement** to capture uncertainty and maximize disagreement.
 - Validate outputs using **TimeSync Plus Online (TSPO)** and interpreter-labeled forest loss probabilities.
 
-The ensemble model produces **forest loss probability maps** for the last **3, 6, and 12 months** from a selected start date.
+The ensemble model produces forest loss probability maps for the last 3, 6, and 12 months from a selected start date.
 
 ---
 
-## 🧩 Linked Repositories
+##Linked Repositories
 
 | Component                         | Description                                              | Link        |
 |----------------------------------|----------------------------------------------------------|-------------|
@@ -42,7 +42,7 @@ The ensemble model produces **forest loss probability maps** for the last **3, 6
 
 ---
 
-## ⚙️ System Workflow Summary
+##System Workflow Summary
 
 1. **Geospatial Model Development**
    - Combine forest disturbance alerts from optical and SAR products.
@@ -65,7 +65,7 @@ The ensemble model produces **forest loss probability maps** for the last **3, 6
 
 ---
 
-## 📌 Notes
+##Notes
 
 - This repository is for **documentation only**.
 - To use the full SUB-FOLD system, please clone and explore the linked repositories above.
@@ -73,7 +73,7 @@ The ensemble model produces **forest loss probability maps** for the last **3, 6
 
 ---
 
-## 📝 Citation / Acknowledgment
+##Citation / Acknowledgment
 
 If you use SUB-FOLD in your work, please cite SERVIR and acknowledge contributions from the development teams supporting the Southeast Asia forest monitoring efforts.
 
